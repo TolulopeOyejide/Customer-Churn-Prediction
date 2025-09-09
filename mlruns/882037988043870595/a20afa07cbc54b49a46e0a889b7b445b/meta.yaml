@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/a20afa07cbc54b49a46e0a889b7b445b/artifacts
+end_time: 1757350823371
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: a20afa07cbc54b49a46e0a889b7b445b
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757350814908
+status: 3
+tags: []
+user_id: codespace

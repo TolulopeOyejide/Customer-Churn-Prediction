@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/80a20ad669264d9db24a5468fcbec4f5/artifacts
+end_time: 1757350913344
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: 80a20ad669264d9db24a5468fcbec4f5
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757350827707
+status: 3
+tags: []
+user_id: codespace

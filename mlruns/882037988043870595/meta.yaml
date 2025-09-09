@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595
+creation_time: 1757157265108
+experiment_id: '882037988043870595'
+last_update_time: 1757157265108
+lifecycle_stage: active
+name: Churn_Prediction

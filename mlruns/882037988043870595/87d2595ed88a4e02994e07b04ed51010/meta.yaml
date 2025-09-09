@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/87d2595ed88a4e02994e07b04ed51010/artifacts
+end_time: 1757350827705
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: 87d2595ed88a4e02994e07b04ed51010
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757350823374
+status: 3
+tags: []
+user_id: codespace

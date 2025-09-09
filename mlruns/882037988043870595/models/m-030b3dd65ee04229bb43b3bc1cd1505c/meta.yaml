@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/models/m-030b3dd65ee04229bb43b3bc1cd1505c/artifacts
+creation_timestamp: 1757416830324
+experiment_id: '882037988043870595'
+last_updated_timestamp: 1757416833223
+model_id: m-030b3dd65ee04229bb43b3bc1cd1505c
+model_type: null
+name: LogisticRegression
+source_run_id: f4ce78c7ddd0477c88c750ae01910601
+status: 2
+status_message: null

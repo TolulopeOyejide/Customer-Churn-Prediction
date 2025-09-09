@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/models/m-f22dfea3946b48bbb9a98a7e422d4662/artifacts
+creation_timestamp: 1757355358123
+experiment_id: '882037988043870595'
+last_updated_timestamp: 1757355359963
+model_id: m-f22dfea3946b48bbb9a98a7e422d4662
+model_type: null
+name: GradientBoosting
+source_run_id: 6ddf4ba4dfff4f46855e5a24983948df
+status: 2
+status_message: null

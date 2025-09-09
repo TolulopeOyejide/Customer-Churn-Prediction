@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/models/m-9f2dddd905d14976b67f534b3554abcf/artifacts
+creation_timestamp: 1757355415256
+experiment_id: '882037988043870595'
+last_updated_timestamp: 1757355417189
+model_id: m-9f2dddd905d14976b67f534b3554abcf
+model_type: null
+name: KNN
+source_run_id: 9fbf809b7a184fbbb21421e49f9a06b5
+status: 2
+status_message: null

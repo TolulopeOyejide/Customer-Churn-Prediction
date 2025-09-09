@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/d9bc240bce2f4308933828c5e9edb876/artifacts
+end_time: 1757417076473
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: d9bc240bce2f4308933828c5e9edb876
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757416926054
+status: 3
+tags: []
+user_id: codespace

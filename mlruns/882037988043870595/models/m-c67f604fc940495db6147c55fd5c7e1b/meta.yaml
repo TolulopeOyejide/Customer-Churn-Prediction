@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/models/m-c67f604fc940495db6147c55fd5c7e1b/artifacts
+creation_timestamp: 1757352158817
+experiment_id: '882037988043870595'
+last_updated_timestamp: 1757352160711
+model_id: m-c67f604fc940495db6147c55fd5c7e1b
+model_type: null
+name: DecisionTree
+source_run_id: a1152883774e46088db87a94160fedfd
+status: 2
+status_message: null

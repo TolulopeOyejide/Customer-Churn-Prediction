@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/200763ddf8024e03b348c7f4f73eb559/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: 200763ddf8024e03b348c7f4f73eb559
+run_name: MLPClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757351735429
+status: 1
+tags: []
+user_id: codespace

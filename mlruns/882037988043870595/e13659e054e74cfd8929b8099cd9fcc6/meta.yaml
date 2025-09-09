@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/e13659e054e74cfd8929b8099cd9fcc6/artifacts
+end_time: 1757354860912
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: e13659e054e74cfd8929b8099cd9fcc6
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757354844752
+status: 3
+tags: []
+user_id: codespace

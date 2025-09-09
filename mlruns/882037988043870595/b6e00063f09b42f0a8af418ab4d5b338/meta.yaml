@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/b6e00063f09b42f0a8af418ab4d5b338/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: b6e00063f09b42f0a8af418ab4d5b338
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757351121604
+status: 1
+tags: []
+user_id: codespace

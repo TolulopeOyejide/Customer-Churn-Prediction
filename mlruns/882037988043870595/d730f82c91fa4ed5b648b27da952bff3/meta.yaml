@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Customer-Churn-Prediction/mlruns/882037988043870595/d730f82c91fa4ed5b648b27da952bff3/artifacts
+end_time: 1757159434782
+entry_point_name: ''
+experiment_id: '882037988043870595'
+lifecycle_stage: active
+run_id: d730f82c91fa4ed5b648b27da952bff3
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757159430872
+status: 3
+tags: []
+user_id: codespace
